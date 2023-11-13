@@ -11,5 +11,8 @@
     "url": "github.com/dbrainz/readme-gen"
   },
   "author": "Darren Brain",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  }
 }
