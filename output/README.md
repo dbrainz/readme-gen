@@ -2,7 +2,7 @@
   # Readme Generator
 
   ## Description
-  UofM Challenge 9 - Build an app using node and inquirer to generate a professional-looking
+  Generates professional readme files based on user input
 
   ## Table of Contents
   - [Installation](#installation)
@@ -16,31 +16,31 @@
 
   <a id="installation"></a>
   ## Installation
-  Clone the repo and run 'npm install'
+  How to install
 
   <a id="usage"></a>
   ## Usage
-  'node index' will run the app. The resulting file will be in the output directory.
+  How to use
 
   <a id="credits"></a>
   ## Credits
 
   <a id="license"></a>
   ## License
-  [License: MIT](https://opensource.org/licenses/MIT 'MIT License')
+  [License: GPL v3](https://www.gnu.org/licenses/gpl-3.0)
 
   <a id="badges"></a>
   ## Badges
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
   <a id="contribute"></a>
   ## How to Contribute
-  
+  How to contribute
 
   <a id="tests"></a>
   ## Tests
-  
+  How to test
 
   <a id="contact"></a>
   ## Contact Info
-  GitHub: [dbrainz](https://github.com/dbrainz 'GitHub profile')  Email: [darren.brain@gmail.com](mailto:darren.brain@gmail.com 'Email address')
+  GitHub: [githubguy](https://github.com/githubguy 'GitHub profile')  Email: [githubguy@gmail.com](mailto:githubguy@gmail.com 'Email address')

@@ -2,7 +2,7 @@
   # Readme Generator
 
   ## Description
-  UofM Challenge 9 - Build an app using node and inquirer to generate a professional-looking
+  UofM Challenge 9 - Build an app using node and inquirer to generate a professional-looking README.md file
 
   ## Table of Contents
   - [Installation](#installation)
@@ -20,6 +20,7 @@
   ## Usage
   'node index' will run the app. The resulting file will be in the output directory.\
   Example video at : [https://drive.google.com/file/d/1v0W3BnzdeF5lk2ng8qRvwEC_i6an1XsR/view](https://drive.google.com/file/d/1v0W3BnzdeF5lk2ng8qRvwEC_i6an1XsR/view 'video demo')
+  ![Screenshot](<readme-gen-screenshot.png>)
 
   <a id="credits"></a>
   ## Credits
