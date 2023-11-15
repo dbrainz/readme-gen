@@ -44,27 +44,43 @@ function generateMarkdown(data) {
   ${data.desc}
 
   ## Table of Contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credits)
+  - [License](#license)
+  - [Badges](#badges)
+  - [How to Contriubute](#contribute)
+  - [Tests](#tests)
+  - [Contact Info](#contact)
 
+  <a id="installation"></a>
   ## Installation
   ${data.install}
 
+  <a id="usage"></a>
   ## Usage
   ${data.usage}
 
+  <a id="credits"></a>
   ## Credits
 
+  <a id="license"></a>
   ## License
   ${renderLicenseLink(data.license)}
 
+  <a id="badges"></a>
   ## Badges
   ${renderLicenseBadge(data.license)}
 
+  <a id="contribute"></a>
   ## How to Contribute
   ${data.contribution}
 
+  <a id="tests"></a>
   ## Tests
   ${data.test}
 
+  <a id="contact"></a>
   ## Contact Info
   GitHub: [${data.userName}](https://github.com/${data.userName} 'GitHub profile')\
   Email: [${data.email}](mailto:${data.email} 'Email address')

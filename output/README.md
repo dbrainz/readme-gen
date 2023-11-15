@@ -1,30 +1,46 @@
 
-  # Readme Generator
+  # Cool Title
 
   ## Description
-  Generates a formatted readme file based on uswer input
+  Description of project
 
   ## Table of Contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credits)
+  - [License](#license)
+  - [Badges](#badges)
+  - [How to Contriubute](#contribute)
+  - [Tests](#tests)
+  - [Contact Info](#contact)
 
+  <a id="installation"></a>
   ## Installation
-  Clone repo and run 'npm install'
+  Install
 
+  <a id="usage"></a>
   ## Usage
-  
+  Usage
 
+  <a id="credits"></a>
   ## Credits
 
+  <a id="license"></a>
   ## License
-  [License: GPL v3](https://www.gnu.org/licenses/gpl-3.0)
+  [License: Apache 2.0](https://opensource.org/licenses/Apache-2.0 'Apache License')
 
+  <a id="badges"></a>
   ## Badges
-  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+  [![License: Apache 2](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
+  <a id="contribute"></a>
   ## How to Contribute
-  Contribute away!
+  Contribute
 
+  <a id="tests"></a>
   ## Tests
-  Test instructions go here
+  Testing
 
+  <a id="contact"></a>
   ## Contact Info
   GitHub: [dbrainz](https://github.com/dbrainz 'GitHub profile')  Email: [darren.brain@gmail.com](mailto:darren.brain@gmail.com 'Email address')
