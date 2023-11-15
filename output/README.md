@@ -1,8 +1,8 @@
 
-  # Cool Title
+  # Readme Generator
 
   ## Description
-  Description of project
+  UofM Challenge 9 - Build an app using node and inquirer to generate a professional-looking
 
   ## Table of Contents
   - [Installation](#installation)
@@ -16,30 +16,30 @@
 
   <a id="installation"></a>
   ## Installation
-  Install
+  Clone the repo and run 'npm install'
 
   <a id="usage"></a>
   ## Usage
-  Usage
+  'node index' will run the app. The resulting file will be in the output directory.
 
   <a id="credits"></a>
   ## Credits
 
   <a id="license"></a>
   ## License
-  [License: Apache 2.0](https://opensource.org/licenses/Apache-2.0 'Apache License')
+  [License: MIT](https://opensource.org/licenses/MIT 'MIT License')
 
   <a id="badges"></a>
   ## Badges
-  [![License: Apache 2](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   <a id="contribute"></a>
   ## How to Contribute
-  Contribute
+  
 
   <a id="tests"></a>
   ## Tests
-  Testing
+  
 
   <a id="contact"></a>
   ## Contact Info
