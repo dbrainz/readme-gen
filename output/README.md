@@ -1,31 +1,30 @@
 
-  # Title
+  # Readme Generator
 
   ## Description
-  Description
+  Generates a formatted readme file based on uswer input
 
   ## Table of Contents
 
   ## Installation
-  Install
+  Clone repo and run 'npm install'
 
   ## Usage
-  Usage
+  
 
   ## Credits
 
   ## License
-  [License: MPL 2.0](https://opensource.org/licenses/MPL-2.0)
+  [License: GPL v3](https://www.gnu.org/licenses/gpl-3.0)
 
   ## Badges
-  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
   ## How to Contribute
-  Contribution
+  Contribute away!
 
   ## Tests
-  Test
+  Test instructions go here
 
   ## Contact Info
-  GitHub: [Github](https://github.com/Github 'GitHub profile')
-  Email: [Email](mailto:Email 'Email address')
+  GitHub: [dbrainz](https://github.com/dbrainz 'GitHub profile')  Email: [darren.brain@gmail.com](mailto:darren.brain@gmail.com 'Email address')
